@@ -15,5 +15,3 @@
  
 💡 Code is poetry, but my commit messages are more like haikus
 ```
-
-![https://github-readme-stats.vercel.app/api?username=robypag](https://github-readme-stats.vercel.app/api?username=robypag)
