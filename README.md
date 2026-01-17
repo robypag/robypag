@@ -5,7 +5,7 @@
 -->
 
 ```
-🚀 Boomer Dev @ SAP | ABAP Wizard 🧙‍♂️ | Node.js Baby Ninja 🥷
+🚀 Boomer Dev | ABAP Wizard 🧙‍♂️ | Node.js Baby Ninja 🥷
  
 💼 Crafting enterprise solutions with CAP-ability
 🔗 Integration whisperer
